@@ -1,0 +1,18 @@
+
+{
+    "name": "luciana",
+    "description": "A-PHP",
+    "authors": [
+        {
+            "name": "luciana M.M.",
+            "email": "lucianamarques745@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\" : "core",
+            "Sts\\": "app/sts"
+        }
+    },
+    "require": {}
+}
